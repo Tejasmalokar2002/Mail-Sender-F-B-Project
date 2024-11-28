@@ -1,0 +1,9 @@
+com\broadcastMail\controller\UserController.class
+com\broadcastMail\service\UserMassMailService.class
+com\broadcastMail\exception\FolderDoesNotExistsException.class
+com\broadcastMail\exception\UserAlreadyExistsException.class
+com\broadcastMail\dto\PasswordDto.class
+com\broadcastMail\dto\SigninDto.class
+com\broadcastMail\service\UserMailService.class
+com\broadcastMail\entites\MailCredentials.class
+com\broadcastMail\dto\UploadExcelDto.class
